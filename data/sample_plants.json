@@ -1,0 +1,1983 @@
+{
+  "schema_version": 1,
+  "plants": [
+    {
+      "id": "p001",
+      "name": "Monstera",
+      "species": "Monstera deliciosa",
+      "category": "Indoor",
+      "location": "Office desk",
+      "watering_interval_days": 7,
+      "last_watered": "2026-11-18",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p002",
+      "name": "Peace Lily",
+      "species": "Spathiphyllum",
+      "category": "Indoor",
+      "location": "Bedroom",
+      "watering_interval_days": 5,
+      "last_watered": "2026-11-24",
+      "created_at": "2026-07-28",
+      "notes": "Keep away from AC vent"
+    },
+    {
+      "id": "p003",
+      "name": "Snake Plant",
+      "species": "Dracaena trifasciata",
+      "category": "Indoor",
+      "location": "Balcony",
+      "watering_interval_days": 14,
+      "last_watered": "2026-11-15",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p004",
+      "name": "Pothos",
+      "species": "Epipremnum aureum",
+      "category": "Indoor",
+      "location": "Terrace",
+      "watering_interval_days": 7,
+      "last_watered": "2026-11-16",
+      "created_at": "2026-07-28",
+      "notes": "Bright indirect light"
+    },
+    {
+      "id": "p005",
+      "name": "Fiddle Leaf Fig",
+      "species": "Ficus lyrata",
+      "category": "Indoor",
+      "location": "Office desk",
+      "watering_interval_days": 8,
+      "last_watered": "2026-11-17",
+      "created_at": "2026-07-28",
+      "notes": "Bright indirect light"
+    },
+    {
+      "id": "p006",
+      "name": "Rubber Plant",
+      "species": "Ficus elastica",
+      "category": "Indoor",
+      "location": "Terrace",
+      "watering_interval_days": 10,
+      "last_watered": "2026-11-20",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p007",
+      "name": "ZZ Plant",
+      "species": "Zamioculcas zamiifolia",
+      "category": "Indoor",
+      "location": "Balcony",
+      "watering_interval_days": 21,
+      "last_watered": "2026-10-31",
+      "created_at": "2026-07-28",
+      "notes": "Prefers morning sun"
+    },
+    {
+      "id": "p008",
+      "name": "Spider Plant",
+      "species": "Chlorophytum comosum",
+      "category": "Indoor",
+      "location": "Bedroom",
+      "watering_interval_days": 6,
+      "last_watered": "2026-11-19",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p009",
+      "name": "Boston Fern",
+      "species": "Nephrolepis exaltata",
+      "category": "Indoor",
+      "location": "Kitchen",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-13",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p010",
+      "name": "Calathea",
+      "species": "Calathea orbifolia",
+      "category": "Indoor",
+      "location": "Garden",
+      "watering_interval_days": 4,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p011",
+      "name": "Heartleaf Philodendron",
+      "species": "Philodendron hederaceum",
+      "category": "Indoor",
+      "location": "Office desk",
+      "watering_interval_days": 7,
+      "last_watered": "2026-11-25",
+      "created_at": "2026-07-28",
+      "notes": "Needs well-draining soil"
+    },
+    {
+      "id": "p012",
+      "name": "Aloe Vera",
+      "species": "Aloe barbadensis",
+      "category": "Succulent",
+      "location": "Balcony",
+      "watering_interval_days": 14,
+      "last_watered": "2026-11-18",
+      "created_at": "2026-07-28",
+      "notes": "Bright indirect light"
+    },
+    {
+      "id": "p013",
+      "name": "Jade Plant",
+      "species": "Crassula ovata",
+      "category": "Succulent",
+      "location": "Living room",
+      "watering_interval_days": 14,
+      "last_watered": "2026-11-08",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p014",
+      "name": "Echeveria",
+      "species": "Echeveria elegans",
+      "category": "Succulent",
+      "location": "Bedroom",
+      "watering_interval_days": 12,
+      "last_watered": "2026-11-14",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p015",
+      "name": "Haworthia",
+      "species": "Haworthiopsis attenuata",
+      "category": "Succulent",
+      "location": "Bedroom",
+      "watering_interval_days": 15,
+      "last_watered": "2026-11-05",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p016",
+      "name": "String of Pearls",
+      "species": "Senecio rowleyanus",
+      "category": "Succulent",
+      "location": "Garden",
+      "watering_interval_days": 10,
+      "last_watered": "2026-11-18",
+      "created_at": "2026-07-28",
+      "notes": "Let top soil dry between waterings"
+    },
+    {
+      "id": "p017",
+      "name": "Christmas Cactus",
+      "species": "Schlumbergera",
+      "category": "Succulent",
+      "location": "Bedroom",
+      "watering_interval_days": 9,
+      "last_watered": "2026-11-17",
+      "created_at": "2026-07-28",
+      "notes": "Needs well-draining soil"
+    },
+    {
+      "id": "p018",
+      "name": "Barrel Cactus",
+      "species": "Echinocactus grusonii",
+      "category": "Succulent",
+      "location": "Study",
+      "watering_interval_days": 60,
+      "last_watered": "2026-09-11",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p019",
+      "name": "Burro's Tail",
+      "species": "Sedum morganianum",
+      "category": "Succulent",
+      "location": "Living room",
+      "watering_interval_days": 12,
+      "last_watered": "2026-11-21",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p020",
+      "name": "Basil",
+      "species": "Ocimum basilicum",
+      "category": "Herb",
+      "location": "Terrace",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Needs well-draining soil"
+    },
+    {
+      "id": "p021",
+      "name": "Mint",
+      "species": "Mentha spicata",
+      "category": "Herb",
+      "location": "Garden",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-24",
+      "created_at": "2026-07-28",
+      "notes": "Mist leaves weekly"
+    },
+    {
+      "id": "p022",
+      "name": "Coriander",
+      "species": "Coriandrum sativum",
+      "category": "Herb",
+      "location": "Garden",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-22",
+      "created_at": "2026-07-28",
+      "notes": "Keep away from AC vent"
+    },
+    {
+      "id": "p023",
+      "name": "Curry Leaf",
+      "species": "Murraya koenigii",
+      "category": "Herb",
+      "location": "Office desk",
+      "watering_interval_days": 4,
+      "last_watered": "2026-11-21",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p024",
+      "name": "Tulsi",
+      "species": "Ocimum tenuiflorum",
+      "category": "Herb",
+      "location": "Living room",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Let top soil dry between waterings"
+    },
+    {
+      "id": "p025",
+      "name": "Rosemary",
+      "species": "Salvia rosmarinus",
+      "category": "Herb",
+      "location": "Bedroom",
+      "watering_interval_days": 6,
+      "last_watered": "2026-11-22",
+      "created_at": "2026-07-28",
+      "notes": "Let top soil dry between waterings"
+    },
+    {
+      "id": "p026",
+      "name": "Thyme",
+      "species": "Thymus vulgaris",
+      "category": "Herb",
+      "location": "Living room",
+      "watering_interval_days": 5,
+      "last_watered": "2026-11-21",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p027",
+      "name": "Tomato",
+      "species": "Solanum lycopersicum",
+      "category": "Vegetable",
+      "location": "Garden",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-25",
+      "created_at": "2026-07-28",
+      "notes": "Mist leaves weekly"
+    },
+    {
+      "id": "p028",
+      "name": "Chilli Pepper",
+      "species": "Capsicum annuum",
+      "category": "Vegetable",
+      "location": "Study",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Mist leaves weekly"
+    },
+    {
+      "id": "p029",
+      "name": "Brinjal",
+      "species": "Solanum melongena",
+      "category": "Vegetable",
+      "location": "Study",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-24",
+      "created_at": "2026-07-28",
+      "notes": "Keep away from AC vent"
+    },
+    {
+      "id": "p030",
+      "name": "Okra",
+      "species": "Abelmoschus esculentus",
+      "category": "Vegetable",
+      "location": "Bedroom",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-25",
+      "created_at": "2026-07-28",
+      "notes": "Bright indirect light"
+    },
+    {
+      "id": "p031",
+      "name": "Spinach",
+      "species": "Spinacia oleracea",
+      "category": "Vegetable",
+      "location": "Garden",
+      "watering_interval_days": 1,
+      "last_watered": "2026-11-25",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p032",
+      "name": "Hibiscus",
+      "species": "Hibiscus rosa-sinensis",
+      "category": "Flower",
+      "location": "Bedroom",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-24",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p033",
+      "name": "Jasmine",
+      "species": "Jasminum sambac",
+      "category": "Flower",
+      "location": "Kitchen",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Needs well-draining soil"
+    },
+    {
+      "id": "p034",
+      "name": "Rose",
+      "species": "Rosa",
+      "category": "Flower",
+      "location": "Kitchen",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-25",
+      "created_at": "2026-07-28",
+      "notes": "Needs well-draining soil"
+    },
+    {
+      "id": "p035",
+      "name": "Marigold",
+      "species": "Tagetes",
+      "category": "Flower",
+      "location": "Balcony",
+      "watering_interval_days": 2,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Let top soil dry between waterings"
+    },
+    {
+      "id": "p036",
+      "name": "Orchid",
+      "species": "Phalaenopsis",
+      "category": "Flower",
+      "location": "Study",
+      "watering_interval_days": 7,
+      "last_watered": "2026-11-22",
+      "created_at": "2026-07-28",
+      "notes": "Mist leaves weekly"
+    },
+    {
+      "id": "p037",
+      "name": "Bougainvillea",
+      "species": "Bougainvillea glabra",
+      "category": "Flower",
+      "location": "Kitchen",
+      "watering_interval_days": 5,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p038",
+      "name": "Banana Plant",
+      "species": "Musa",
+      "category": "Outdoor",
+      "location": "Bedroom",
+      "watering_interval_days": 3,
+      "last_watered": "2026-11-21",
+      "created_at": "2026-07-28",
+      "notes": ""
+    },
+    {
+      "id": "p039",
+      "name": "Lemon Tree",
+      "species": "Citrus limon",
+      "category": "Outdoor",
+      "location": "Balcony",
+      "watering_interval_days": 4,
+      "last_watered": "2026-11-20",
+      "created_at": "2026-07-28",
+      "notes": "Bright indirect light"
+    },
+    {
+      "id": "p040",
+      "name": "Areca Palm",
+      "species": "Dypsis lutescens",
+      "category": "Outdoor",
+      "location": "Bedroom",
+      "watering_interval_days": 5,
+      "last_watered": "2026-11-23",
+      "created_at": "2026-07-28",
+      "notes": "Mist leaves weekly"
+    }
+  ],
+  "logs": [
+    {
+      "id": "l0001",
+      "plant_id": "p001",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0002",
+      "plant_id": "p001",
+      "date": "2026-11-11",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 300
+    },
+    {
+      "id": "l0003",
+      "plant_id": "p001",
+      "date": "2026-11-05",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0004",
+      "plant_id": "p001",
+      "date": "2026-10-29",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 200
+    },
+    {
+      "id": "l0005",
+      "plant_id": "p001",
+      "date": "2026-11-05",
+      "action": "Pruned",
+      "notes": "Pinched tips for bushier growth",
+      "water_ml": null
+    },
+    {
+      "id": "l0006",
+      "plant_id": "p002",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 260
+    },
+    {
+      "id": "l0007",
+      "plant_id": "p002",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 330
+    },
+    {
+      "id": "l0008",
+      "plant_id": "p002",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0009",
+      "plant_id": "p002",
+      "date": "2026-11-21",
+      "action": "Fertilized",
+      "notes": "Liquid feed, half strength",
+      "water_ml": null
+    },
+    {
+      "id": "l0010",
+      "plant_id": "p002",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "Accidentally watered twice",
+      "water_ml": 250
+    },
+    {
+      "id": "l0011",
+      "plant_id": "p003",
+      "date": "2026-11-15",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 200
+    },
+    {
+      "id": "l0012",
+      "plant_id": "p003",
+      "date": "2026-11-01",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 300
+    },
+    {
+      "id": "l0013",
+      "plant_id": "p004",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 310
+    },
+    {
+      "id": "l0014",
+      "plant_id": "p004",
+      "date": "2026-11-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 310
+    },
+    {
+      "id": "l0015",
+      "plant_id": "p004",
+      "date": "2026-11-04",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 400
+    },
+    {
+      "id": "l0016",
+      "plant_id": "p004",
+      "date": "2026-10-29",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 270
+    },
+    {
+      "id": "l0017",
+      "plant_id": "p004",
+      "date": "2026-10-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0018",
+      "plant_id": "p004",
+      "date": "2026-10-26",
+      "action": "Note",
+      "notes": "New leaf spotted",
+      "water_ml": null
+    },
+    {
+      "id": "l0019",
+      "plant_id": "p005",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0020",
+      "plant_id": "p005",
+      "date": "2026-11-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0021",
+      "plant_id": "p005",
+      "date": "2026-11-01",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 400
+    },
+    {
+      "id": "l0022",
+      "plant_id": "p005",
+      "date": "2026-10-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 290
+    },
+    {
+      "id": "l0023",
+      "plant_id": "p005",
+      "date": "2026-10-15",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 290
+    },
+    {
+      "id": "l0024",
+      "plant_id": "p005",
+      "date": "2026-10-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0025",
+      "plant_id": "p005",
+      "date": "2026-11-18",
+      "action": "Pruned",
+      "notes": "Removed yellow leaves",
+      "water_ml": null
+    },
+    {
+      "id": "l0026",
+      "plant_id": "p005",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "Extra drink after repotting",
+      "water_ml": 300
+    },
+    {
+      "id": "l0027",
+      "plant_id": "p006",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 260
+    },
+    {
+      "id": "l0028",
+      "plant_id": "p006",
+      "date": "2026-11-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 280
+    },
+    {
+      "id": "l0029",
+      "plant_id": "p006",
+      "date": "2026-11-01",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 400
+    },
+    {
+      "id": "l0030",
+      "plant_id": "p006",
+      "date": "2026-10-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 360
+    },
+    {
+      "id": "l0031",
+      "plant_id": "p006",
+      "date": "2026-10-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 270
+    },
+    {
+      "id": "l0032",
+      "plant_id": "p006",
+      "date": "2026-11-23",
+      "action": "Fertilized",
+      "notes": "Slow-release pellets",
+      "water_ml": null
+    },
+    {
+      "id": "l0033",
+      "plant_id": "p006",
+      "date": "2026-10-16",
+      "action": "Note",
+      "notes": "Slight leaf curl - watching",
+      "water_ml": null
+    },
+    {
+      "id": "l0034",
+      "plant_id": "p006",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "Left the hose running",
+      "water_ml": 3500
+    },
+    {
+      "id": "l0035",
+      "plant_id": "p007",
+      "date": "2026-10-31",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 240
+    },
+    {
+      "id": "l0036",
+      "plant_id": "p007",
+      "date": "2026-10-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0037",
+      "plant_id": "p007",
+      "date": "2026-10-27",
+      "action": "Fertilized",
+      "notes": "Organic compost top-up",
+      "water_ml": null
+    },
+    {
+      "id": "l0038",
+      "plant_id": "p008",
+      "date": "2026-11-19",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0039",
+      "plant_id": "p008",
+      "date": "2026-11-13",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 380
+    },
+    {
+      "id": "l0040",
+      "plant_id": "p009",
+      "date": "2026-11-13",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 370
+    },
+    {
+      "id": "l0041",
+      "plant_id": "p009",
+      "date": "2026-11-09",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 200
+    },
+    {
+      "id": "l0042",
+      "plant_id": "p009",
+      "date": "2026-11-05",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 330
+    },
+    {
+      "id": "l0043",
+      "plant_id": "p009",
+      "date": "2026-11-01",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 210
+    },
+    {
+      "id": "l0044",
+      "plant_id": "p009",
+      "date": "2026-10-28",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 340
+    },
+    {
+      "id": "l0045",
+      "plant_id": "p009",
+      "date": "2026-10-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 380
+    },
+    {
+      "id": "l0046",
+      "plant_id": "p009",
+      "date": "2026-10-19",
+      "action": "Fertilized",
+      "notes": "Liquid feed, half strength",
+      "water_ml": null
+    },
+    {
+      "id": "l0047",
+      "plant_id": "p009",
+      "date": "2026-11-19",
+      "action": "Repotted",
+      "notes": "Fresh potting mix",
+      "water_ml": null
+    },
+    {
+      "id": "l0048",
+      "plant_id": "p010",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 320
+    },
+    {
+      "id": "l0049",
+      "plant_id": "p010",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 210
+    },
+    {
+      "id": "l0050",
+      "plant_id": "p010",
+      "date": "2026-11-13",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 320
+    },
+    {
+      "id": "l0051",
+      "plant_id": "p010",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 340
+    },
+    {
+      "id": "l0052",
+      "plant_id": "p010",
+      "date": "2026-11-03",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 320
+    },
+    {
+      "id": "l0053",
+      "plant_id": "p010",
+      "date": "2026-10-29",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 210
+    },
+    {
+      "id": "l0054",
+      "plant_id": "p010",
+      "date": "2026-10-31",
+      "action": "Fertilized",
+      "notes": "Liquid feed, half strength",
+      "water_ml": null
+    },
+    {
+      "id": "l0055",
+      "plant_id": "p010",
+      "date": "2026-11-07",
+      "action": "Pruned",
+      "notes": "Removed yellow leaves",
+      "water_ml": null
+    },
+    {
+      "id": "l0056",
+      "plant_id": "p010",
+      "date": "2026-11-04",
+      "action": "Note",
+      "notes": "Slight leaf curl - watching",
+      "water_ml": null
+    },
+    {
+      "id": "l0057",
+      "plant_id": "p011",
+      "date": "2026-11-25",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0058",
+      "plant_id": "p011",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0059",
+      "plant_id": "p011",
+      "date": "2026-11-09",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 330
+    },
+    {
+      "id": "l0060",
+      "plant_id": "p011",
+      "date": "2026-10-21",
+      "action": "Pruned",
+      "notes": "Pinched tips for bushier growth",
+      "water_ml": null
+    },
+    {
+      "id": "l0061",
+      "plant_id": "p012",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0062",
+      "plant_id": "p012",
+      "date": "2026-11-04",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 100
+    },
+    {
+      "id": "l0063",
+      "plant_id": "p012",
+      "date": "2026-10-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 130
+    },
+    {
+      "id": "l0064",
+      "plant_id": "p012",
+      "date": "2026-11-17",
+      "action": "Note",
+      "notes": "New leaf spotted",
+      "water_ml": null
+    },
+    {
+      "id": "l0065",
+      "plant_id": "p013",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 140
+    },
+    {
+      "id": "l0066",
+      "plant_id": "p013",
+      "date": "2026-10-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 130
+    },
+    {
+      "id": "l0067",
+      "plant_id": "p013",
+      "date": "2026-11-24",
+      "action": "Note",
+      "notes": "Looks healthy",
+      "water_ml": null
+    },
+    {
+      "id": "l0068",
+      "plant_id": "p014",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0069",
+      "plant_id": "p014",
+      "date": "2026-11-03",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 90
+    },
+    {
+      "id": "l0070",
+      "plant_id": "p014",
+      "date": "2026-10-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 150
+    },
+    {
+      "id": "l0071",
+      "plant_id": "p014",
+      "date": "2026-10-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 150
+    },
+    {
+      "id": "l0072",
+      "plant_id": "p014",
+      "date": "2026-09-29",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 90
+    },
+    {
+      "id": "l0073",
+      "plant_id": "p014",
+      "date": "2026-09-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 140
+    },
+    {
+      "id": "l0074",
+      "plant_id": "p014",
+      "date": "2026-10-22",
+      "action": "Fertilized",
+      "notes": "Organic compost top-up",
+      "water_ml": null
+    },
+    {
+      "id": "l0075",
+      "plant_id": "p014",
+      "date": "2026-11-17",
+      "action": "Note",
+      "notes": "Looks healthy",
+      "water_ml": null
+    },
+    {
+      "id": "l0076",
+      "plant_id": "p015",
+      "date": "2026-11-05",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 140
+    },
+    {
+      "id": "l0077",
+      "plant_id": "p015",
+      "date": "2026-10-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0078",
+      "plant_id": "p015",
+      "date": "2026-10-06",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 80
+    },
+    {
+      "id": "l0079",
+      "plant_id": "p015",
+      "date": "2026-11-09",
+      "action": "Fertilized",
+      "notes": "Slow-release pellets",
+      "water_ml": null
+    },
+    {
+      "id": "l0080",
+      "plant_id": "p016",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 80
+    },
+    {
+      "id": "l0081",
+      "plant_id": "p016",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0082",
+      "plant_id": "p016",
+      "date": "2026-10-28",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 110
+    },
+    {
+      "id": "l0083",
+      "plant_id": "p016",
+      "date": "2026-10-19",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0084",
+      "plant_id": "p017",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0085",
+      "plant_id": "p017",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 90
+    },
+    {
+      "id": "l0086",
+      "plant_id": "p017",
+      "date": "2026-10-31",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 100
+    },
+    {
+      "id": "l0087",
+      "plant_id": "p017",
+      "date": "2026-10-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 140
+    },
+    {
+      "id": "l0088",
+      "plant_id": "p017",
+      "date": "2026-10-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0089",
+      "plant_id": "p017",
+      "date": "2026-10-05",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 90
+    },
+    {
+      "id": "l0090",
+      "plant_id": "p018",
+      "date": "2026-09-11",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 140
+    },
+    {
+      "id": "l0091",
+      "plant_id": "p018",
+      "date": "2026-11-07",
+      "action": "Note",
+      "notes": "New leaf spotted",
+      "water_ml": null
+    },
+    {
+      "id": "l0092",
+      "plant_id": "p019",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 120
+    },
+    {
+      "id": "l0093",
+      "plant_id": "p019",
+      "date": "2026-11-10",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 80
+    },
+    {
+      "id": "l0094",
+      "plant_id": "p019",
+      "date": "2026-10-30",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 80
+    },
+    {
+      "id": "l0095",
+      "plant_id": "p019",
+      "date": "2026-10-27",
+      "action": "Fertilized",
+      "notes": "Slow-release pellets",
+      "water_ml": null
+    },
+    {
+      "id": "l0096",
+      "plant_id": "p020",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0097",
+      "plant_id": "p020",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 150
+    },
+    {
+      "id": "l0098",
+      "plant_id": "p020",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0099",
+      "plant_id": "p020",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0100",
+      "plant_id": "p020",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 230
+    },
+    {
+      "id": "l0101",
+      "plant_id": "p021",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 210
+    },
+    {
+      "id": "l0102",
+      "plant_id": "p021",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0103",
+      "plant_id": "p021",
+      "date": "2026-11-19",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0104",
+      "plant_id": "p021",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0105",
+      "plant_id": "p021",
+      "date": "2026-11-24",
+      "action": "Fertilized",
+      "notes": "Liquid feed, half strength",
+      "water_ml": null
+    },
+    {
+      "id": "l0106",
+      "plant_id": "p022",
+      "date": "2026-11-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 160
+    },
+    {
+      "id": "l0107",
+      "plant_id": "p022",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0108",
+      "plant_id": "p022",
+      "date": "2026-10-19",
+      "action": "Note",
+      "notes": "Slight leaf curl - watching",
+      "water_ml": null
+    },
+    {
+      "id": "l0109",
+      "plant_id": "p023",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 170
+    },
+    {
+      "id": "l0110",
+      "plant_id": "p023",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 190
+    },
+    {
+      "id": "l0111",
+      "plant_id": "p023",
+      "date": "2026-11-12",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0112",
+      "plant_id": "p024",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 230
+    },
+    {
+      "id": "l0113",
+      "plant_id": "p024",
+      "date": "2026-11-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 200
+    },
+    {
+      "id": "l0114",
+      "plant_id": "p024",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0115",
+      "plant_id": "p024",
+      "date": "2026-11-19",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 230
+    },
+    {
+      "id": "l0116",
+      "plant_id": "p024",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 160
+    },
+    {
+      "id": "l0117",
+      "plant_id": "p024",
+      "date": "2026-11-05",
+      "action": "Note",
+      "notes": "Slight leaf curl - watching",
+      "water_ml": null
+    },
+    {
+      "id": "l0118",
+      "plant_id": "p025",
+      "date": "2026-11-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0119",
+      "plant_id": "p025",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0120",
+      "plant_id": "p025",
+      "date": "2026-11-11",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 240
+    },
+    {
+      "id": "l0121",
+      "plant_id": "p025",
+      "date": "2026-11-05",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0122",
+      "plant_id": "p025",
+      "date": "2026-10-30",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 210
+    },
+    {
+      "id": "l0123",
+      "plant_id": "p026",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 230
+    },
+    {
+      "id": "l0124",
+      "plant_id": "p026",
+      "date": "2026-11-15",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 220
+    },
+    {
+      "id": "l0125",
+      "plant_id": "p026",
+      "date": "2026-11-09",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 150
+    },
+    {
+      "id": "l0126",
+      "plant_id": "p026",
+      "date": "2026-11-04",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 180
+    },
+    {
+      "id": "l0127",
+      "plant_id": "p026",
+      "date": "2026-10-30",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 250
+    },
+    {
+      "id": "l0128",
+      "plant_id": "p026",
+      "date": "2026-10-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 230
+    },
+    {
+      "id": "l0129",
+      "plant_id": "p027",
+      "date": "2026-11-25",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 760
+    },
+    {
+      "id": "l0130",
+      "plant_id": "p027",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 750
+    },
+    {
+      "id": "l0131",
+      "plant_id": "p027",
+      "date": "2026-10-16",
+      "action": "Pruned",
+      "notes": "Removed yellow leaves",
+      "water_ml": null
+    },
+    {
+      "id": "l0132",
+      "plant_id": "p028",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 850
+    },
+    {
+      "id": "l0133",
+      "plant_id": "p028",
+      "date": "2026-11-19",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 800
+    },
+    {
+      "id": "l0134",
+      "plant_id": "p028",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 630
+    },
+    {
+      "id": "l0135",
+      "plant_id": "p028",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 720
+    },
+    {
+      "id": "l0136",
+      "plant_id": "p029",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 570
+    },
+    {
+      "id": "l0137",
+      "plant_id": "p029",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 790
+    },
+    {
+      "id": "l0138",
+      "plant_id": "p029",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 560
+    },
+    {
+      "id": "l0139",
+      "plant_id": "p029",
+      "date": "2026-11-03",
+      "action": "Note",
+      "notes": "Slight leaf curl - watching",
+      "water_ml": null
+    },
+    {
+      "id": "l0140",
+      "plant_id": "p030",
+      "date": "2026-11-25",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 720
+    },
+    {
+      "id": "l0141",
+      "plant_id": "p030",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 580
+    },
+    {
+      "id": "l0142",
+      "plant_id": "p030",
+      "date": "2026-11-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 850
+    },
+    {
+      "id": "l0143",
+      "plant_id": "p030",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 860
+    },
+    {
+      "id": "l0144",
+      "plant_id": "p030",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 880
+    },
+    {
+      "id": "l0145",
+      "plant_id": "p031",
+      "date": "2026-11-25",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 870
+    },
+    {
+      "id": "l0146",
+      "plant_id": "p031",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 600
+    },
+    {
+      "id": "l0147",
+      "plant_id": "p031",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 710
+    },
+    {
+      "id": "l0148",
+      "plant_id": "p031",
+      "date": "2026-11-22",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 610
+    },
+    {
+      "id": "l0149",
+      "plant_id": "p031",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 820
+    },
+    {
+      "id": "l0150",
+      "plant_id": "p031",
+      "date": "2026-11-14",
+      "action": "Pruned",
+      "notes": "Pinched tips for bushier growth",
+      "water_ml": null
+    },
+    {
+      "id": "l0151",
+      "plant_id": "p032",
+      "date": "2026-11-24",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 540
+    },
+    {
+      "id": "l0152",
+      "plant_id": "p032",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 390
+    },
+    {
+      "id": "l0153",
+      "plant_id": "p032",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 550
+    },
+    {
+      "id": "l0154",
+      "plant_id": "p032",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 550
+    },
+    {
+      "id": "l0155",
+      "plant_id": "p032",
+      "date": "2026-11-15",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 600
+    },
+    {
+      "id": "l0156",
+      "plant_id": "p032",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 540
+    },
+    {
+      "id": "l0157",
+      "plant_id": "p032",
+      "date": "2026-11-01",
+      "action": "Repotted",
+      "notes": "Moved to a larger pot",
+      "water_ml": null
+    },
+    {
+      "id": "l0158",
+      "plant_id": "p033",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 500
+    },
+    {
+      "id": "l0159",
+      "plant_id": "p033",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 490
+    },
+    {
+      "id": "l0160",
+      "plant_id": "p033",
+      "date": "2026-11-16",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 380
+    },
+    {
+      "id": "l0161",
+      "plant_id": "p033",
+      "date": "2026-11-12",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 420
+    },
+    {
+      "id": "l0162",
+      "plant_id": "p034",
+      "date": "2026-11-25",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 490
+    },
+    {
+      "id": "l0163",
+      "plant_id": "p034",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 330
+    },
+    {
+      "id": "l0164",
+      "plant_id": "p034",
+      "date": "2026-10-27",
+      "action": "Fertilized",
+      "notes": "Slow-release pellets",
+      "water_ml": null
+    },
+    {
+      "id": "l0165",
+      "plant_id": "p034",
+      "date": "2026-11-04",
+      "action": "Note",
+      "notes": "Looks healthy",
+      "water_ml": null
+    },
+    {
+      "id": "l0166",
+      "plant_id": "p035",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 510
+    },
+    {
+      "id": "l0167",
+      "plant_id": "p035",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 400
+    },
+    {
+      "id": "l0168",
+      "plant_id": "p035",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 330
+    },
+    {
+      "id": "l0169",
+      "plant_id": "p037",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 400
+    },
+    {
+      "id": "l0170",
+      "plant_id": "p037",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 460
+    },
+    {
+      "id": "l0171",
+      "plant_id": "p038",
+      "date": "2026-11-21",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1370
+    },
+    {
+      "id": "l0172",
+      "plant_id": "p038",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 990
+    },
+    {
+      "id": "l0173",
+      "plant_id": "p038",
+      "date": "2026-11-14",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1470
+    },
+    {
+      "id": "l0174",
+      "plant_id": "p038",
+      "date": "2026-11-11",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1110
+    },
+    {
+      "id": "l0175",
+      "plant_id": "p038",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1120
+    },
+    {
+      "id": "l0176",
+      "plant_id": "p038",
+      "date": "2026-10-30",
+      "action": "Pruned",
+      "notes": "Removed yellow leaves",
+      "water_ml": null
+    },
+    {
+      "id": "l0177",
+      "plant_id": "p038",
+      "date": "2026-10-17",
+      "action": "Note",
+      "notes": "New leaf spotted",
+      "water_ml": null
+    },
+    {
+      "id": "l0178",
+      "plant_id": "p039",
+      "date": "2026-11-20",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 820
+    },
+    {
+      "id": "l0179",
+      "plant_id": "p039",
+      "date": "2026-11-17",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1090
+    },
+    {
+      "id": "l0180",
+      "plant_id": "p039",
+      "date": "2026-11-13",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1440
+    },
+    {
+      "id": "l0181",
+      "plant_id": "p039",
+      "date": "2026-10-18",
+      "action": "Fertilized",
+      "notes": "Slow-release pellets",
+      "water_ml": null
+    },
+    {
+      "id": "l0182",
+      "plant_id": "p039",
+      "date": "2026-11-02",
+      "action": "Repotted",
+      "notes": "Fresh potting mix",
+      "water_ml": null
+    },
+    {
+      "id": "l0183",
+      "plant_id": "p039",
+      "date": "2026-11-07",
+      "action": "Note",
+      "notes": "Looks healthy",
+      "water_ml": null
+    },
+    {
+      "id": "l0184",
+      "plant_id": "p040",
+      "date": "2026-11-23",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1370
+    },
+    {
+      "id": "l0185",
+      "plant_id": "p040",
+      "date": "2026-11-18",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 800
+    },
+    {
+      "id": "l0186",
+      "plant_id": "p040",
+      "date": "2026-11-12",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 990
+    },
+    {
+      "id": "l0187",
+      "plant_id": "p040",
+      "date": "2026-11-08",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1130
+    },
+    {
+      "id": "l0188",
+      "plant_id": "p040",
+      "date": "2026-11-03",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 1440
+    },
+    {
+      "id": "l0189",
+      "plant_id": "p040",
+      "date": "2026-10-29",
+      "action": "Watered",
+      "notes": "",
+      "water_ml": 890
+    },
+    {
+      "id": "l0190",
+      "plant_id": "p040",
+      "date": "2026-11-15",
+      "action": "Pruned",
+      "notes": "Removed yellow leaves",
+      "water_ml": null
+    },
+    {
+      "id": "l0191",
+      "plant_id": "p040",
+      "date": "2026-10-29",
+      "action": "Repotted",
+      "notes": "Moved to a larger pot",
+      "water_ml": null
+    },
+    {
+      "id": "l0192",
+      "plant_id": "p040",
+      "date": "2026-11-11",
+      "action": "Note",
+      "notes": "New leaf spotted",
+      "water_ml": null
+    }
+  ]
+}

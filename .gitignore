@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/plants.json
+data/plants.json.tmp
+data/plants.json.corrupt-*

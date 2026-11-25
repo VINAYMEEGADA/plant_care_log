@@ -1,0 +1,41 @@
+name,species,category,location,watering_interval_days,last_watered,notes
+Monstera,Monstera deliciosa,Indoor,Office desk,7,2026-11-18,
+Peace Lily,Spathiphyllum,Indoor,Bedroom,5,2026-11-24,Keep away from AC vent
+Snake Plant,Dracaena trifasciata,Indoor,Balcony,14,2026-11-15,
+Pothos,Epipremnum aureum,Indoor,Terrace,7,2026-11-16,Bright indirect light
+Fiddle Leaf Fig,Ficus lyrata,Indoor,Office desk,8,2026-11-17,Bright indirect light
+Rubber Plant,Ficus elastica,Indoor,Terrace,10,2026-11-20,
+ZZ Plant,Zamioculcas zamiifolia,Indoor,Balcony,21,2026-10-31,Prefers morning sun
+Spider Plant,Chlorophytum comosum,Indoor,Bedroom,6,2026-11-19,
+Boston Fern,Nephrolepis exaltata,Indoor,Kitchen,3,2026-11-13,
+Calathea,Calathea orbifolia,Indoor,Garden,4,2026-11-23,
+Heartleaf Philodendron,Philodendron hederaceum,Indoor,Office desk,7,2026-11-25,Needs well-draining soil
+Aloe Vera,Aloe barbadensis,Succulent,Balcony,14,2026-11-18,Bright indirect light
+Jade Plant,Crassula ovata,Succulent,Living room,14,2026-11-08,
+Echeveria,Echeveria elegans,Succulent,Bedroom,12,2026-11-14,
+Haworthia,Haworthiopsis attenuata,Succulent,Bedroom,15,2026-11-05,
+String of Pearls,Senecio rowleyanus,Succulent,Garden,10,2026-11-18,Let top soil dry between waterings
+Christmas Cactus,Schlumbergera,Succulent,Bedroom,9,2026-11-17,Needs well-draining soil
+Barrel Cactus,Echinocactus grusonii,Succulent,Study,60,2026-09-11,
+Burro's Tail,Sedum morganianum,Succulent,Living room,12,2026-11-21,
+Basil,Ocimum basilicum,Herb,Terrace,2,2026-11-23,Needs well-draining soil
+Mint,Mentha spicata,Herb,Garden,2,2026-11-24,Mist leaves weekly
+Coriander,Coriandrum sativum,Herb,Garden,3,2026-11-22,Keep away from AC vent
+Curry Leaf,Murraya koenigii,Herb,Office desk,4,2026-11-21,
+Tulsi,Ocimum tenuiflorum,Herb,Living room,2,2026-11-23,Let top soil dry between waterings
+Rosemary,Salvia rosmarinus,Herb,Bedroom,6,2026-11-22,Let top soil dry between waterings
+Thyme,Thymus vulgaris,Herb,Living room,5,2026-11-21,
+Tomato,Solanum lycopersicum,Vegetable,Garden,2,2026-11-25,Mist leaves weekly
+Chilli Pepper,Capsicum annuum,Vegetable,Study,3,2026-11-23,Mist leaves weekly
+Brinjal,Solanum melongena,Vegetable,Study,3,2026-11-24,Keep away from AC vent
+Okra,Abelmoschus esculentus,Vegetable,Bedroom,2,2026-11-25,Bright indirect light
+Spinach,Spinacia oleracea,Vegetable,Garden,1,2026-11-25,
+Hibiscus,Hibiscus rosa-sinensis,Flower,Bedroom,2,2026-11-24,
+Jasmine,Jasminum sambac,Flower,Kitchen,3,2026-11-23,Needs well-draining soil
+Rose,Rosa,Flower,Kitchen,3,2026-11-25,Needs well-draining soil
+Marigold,Tagetes,Flower,Balcony,2,2026-11-23,Let top soil dry between waterings
+Orchid,Phalaenopsis,Flower,Study,7,2026-11-22,Mist leaves weekly
+Bougainvillea,Bougainvillea glabra,Flower,Kitchen,5,2026-11-23,
+Banana Plant,Musa,Outdoor,Bedroom,3,2026-11-21,
+Lemon Tree,Citrus limon,Outdoor,Balcony,4,2026-11-20,Bright indirect light
+Areca Palm,Dypsis lutescens,Outdoor,Bedroom,5,2026-11-23,Mist leaves weekly
